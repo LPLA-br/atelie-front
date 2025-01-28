@@ -1,4 +1,4 @@
-# ATELIÉ - Sistema para Transparência dos Processos Costureira/Clientes
+# ATELIÊ - Sistema para Transparência dos Processos Costureira/Clientes
 
 Repositório para frontend construido sobre o Next.js
 
